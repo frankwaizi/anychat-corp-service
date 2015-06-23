@@ -1,5 +1,5 @@
 {
-  "name": "wechat-corp-service",
+  "name": "anychat-corp-service",
   "version": "0.0.1",
   "description": "apis set for wechat 3rd corp service",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-webot/wechat-corp-service.git"
+    "url": "https://github.com/frankwaizi/anychat-corp-service.git"
   },
   "author": "",
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/node-webot/wechat-corp-service/issues"
+    "url": "https://github.com/frankwaizi/anychat-corp-service/issues"
   },
-  "homepage": "https://github.com/node-webot/wechat-corp-service",
+  "homepage": "https://github.com/frankwaizi/anychat-corp-service",
   "dependencies": {
     "urllib": "^2.2.1"
   },

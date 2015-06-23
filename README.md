@@ -1,4 +1,4 @@
-wechat corp service
+anychat corp service
 ====================
 
 微信公共平台企业号版(第三方企业套件)SDK－主动调用接口
@@ -11,12 +11,12 @@ wechat corp service
 ## 安装方法
 
 ```sh
-$ npm install wechat-corp-service
+$ npm install anychat-corp-service
 ```
 
 ## 使用方法
 
-- 回调接口请移步: [微信公共平台企业号版(第三方企业套件)SDK－回调接口](https://github.com/node-webot/wechat-corp-service-callback)
+- 回调接口请移步: [微信公共平台企业号版(第三方企业套件)SDK－回调接口](https://github.com/frankwaizi/anychat-corp-service-callback)
 
 ### 前提
 
@@ -30,7 +30,7 @@ $ npm install wechat-corp-service
 其中的token，encodingAESKey，suite_id可以在套件的信息配置界面获取。
 
 ```js
-var APICorp = require('wechat-corp-service');
+var APICorp = require('anychat-corp-service');
 
 var get_token = function(cb) {
   var self = this;
