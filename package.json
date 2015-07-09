@@ -1,6 +1,6 @@
 {
   "name": "anychat-corp-service",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "apis set for wechat 3rd corp service",
   "main": "index.js",
   "scripts": {
